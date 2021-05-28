@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MBAP_Project_Exercise_Tracker_App</string>
+    <string-array name="facilities">
+        <item>ActiveSG@Bedok</item>
+        <item>ActiveSG@Tampines</item>
+        <item>GymmBoxx@Bedok</item>
+    </string-array>
+
+    <string-array name="opening_hours">
+        <item>7:00 a.m. to 10:40 p.m.</item>
+        <item>7:00 a.m. to 10.40 p.m.</item>
+        <item>Open 24 hours</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>Bedok Heartbeat</item>
+        <item>Tampines Hub</item>
+        <item>Bedok Point</item>
+    </string-array>
+</resources>
